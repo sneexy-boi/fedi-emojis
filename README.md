@@ -8,7 +8,7 @@ Lack of credits may be due most of these are emojis being reuploaded everywhere 
 
 - **[Volpeon's Den](https://volpeon.ink/)**
 - **[Puniko's emoji repository](https://emoji-repo.absturztau.be/)**
-- **[Caius Nocturne](https://nocturne.works/emoji/free-emoji**
+- **[Caius Nocturne](https://nocturne.works/emoji/free-emoji)**
 - **[Mutant Standard](https://mutant.tech/)**
 - **[Heatherhornses's Website](https://heatherhorns.com/emoji/)**
 - **[Onemuri](https://onemuri.men/extras.html)**
