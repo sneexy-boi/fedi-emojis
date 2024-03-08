@@ -4,10 +4,14 @@ Emoji packs created by gathering emojis and random images from the internet and 
 
 Credits mentioned below, licenses found within each emoji pack respectively. Lack of credits or licenses are due to most of these emojis being constantly reuploaded and lacking original sources.
 
+## Utilities used
+- **[emoji-gen](https://firefish.dev/firefish/emoji-gen)**
+
 ## More sources to grab emojis from
 
 - **[Volpeon's Den](https://volpeon.ink/)**
 - **[Puniko's emoji repository](https://emoji-repo.absturztau.be/)**
+- **[pleroma.envs.net](https://git.envs.net/envs/pleroma-custom/)**
 - **[Caius Nocturne](https://nocturne.works/emoji/free-emoji)**
 - **[Mutant Standard](https://mutant.tech/)**
 - **[Heatherhornses's Website](https://heatherhorns.com/emoji/)**
