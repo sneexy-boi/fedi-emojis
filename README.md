@@ -20,3 +20,4 @@ Lack of credits may be due most of these are emojis being reuploaded everywhere 
 - **[Heatherhornses](https://heatherhorns.com/emoji/)**
 - **[caws-a-bit](https://furry.engineer/@caws_a_bit)**
 - **[Blob Emoji](https://blobs.gg/)**
+- **[reddit](https://www.reddit.com/)**
