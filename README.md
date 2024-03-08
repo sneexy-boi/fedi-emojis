@@ -1,0 +1,2 @@
+# fedi-emojis
+fediverse emojis ‼️
