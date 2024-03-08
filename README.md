@@ -26,3 +26,4 @@ Credits mentioned below, licenses found within each emoji pack respectively. Lac
 - **[Blob Emoji](https://blobs.gg/)**
 - **[chr-1x](https://github.com/chr-1x/)**
 - **[reddit](https://www.reddit.com/)**
+- **[Skype](https://www.skype.com/en/)**
