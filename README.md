@@ -24,4 +24,5 @@ Credits mentioned below, licenses found within each emoji pack respectively. Lac
 - **[Heatherhornses](https://heatherhorns.com/emoji/)**
 - **[caws-a-bit](https://furry.engineer/@caws_a_bit)**
 - **[Blob Emoji](https://blobs.gg/)**
+- **[chr-1x](https://github.com/chr-1x/)**
 - **[reddit](https://www.reddit.com/)**
