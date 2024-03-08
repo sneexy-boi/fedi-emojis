@@ -2,7 +2,7 @@
 
 Emoji packs created by gathering emojis and random images from the internet and creating importable ZIPs.
 
-Lack of credits may be due most of these are emojis being reuploaded everywhere and lacking original sources/credits.
+Credits mentioned below, licenses found within each emoji pack respectively. Lack of credits or licenses are due to most of these emojis being constantly reuploaded and lacking original sources.
 
 ## More sources to grab emojis from
 
